@@ -1,4 +1,5 @@
-some configurations that were checked in after init
-need to pull this file down
-add additional configuration
-found a couple of more config values that are needed
+config1:abc
+
+config2:123
+
+config3:xyz
